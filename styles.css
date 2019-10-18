@@ -31,7 +31,10 @@ nav {
 nav ul {
     margin: 0;
     padding: 0;
+    flex: 2;
+    display: flex;
     list-style: none;
+    justify-content: space-between;
 }
 
 nav a {
