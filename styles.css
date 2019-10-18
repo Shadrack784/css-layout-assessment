@@ -8,6 +8,8 @@ body {
 img {
     max-width: 100%;
     display: block;
+    float: left;
+    padding: 5px 15px 15px 5px;
 }
 
 .logo {
@@ -21,6 +23,7 @@ img {
     margin: 0 auto;
     padding: 0 20px;
     max-width: 980px;
+    display: flex;
 }
 
 nav {
